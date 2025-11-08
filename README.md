@@ -70,7 +70,7 @@ NaviHive 是基于 Cloudflare Workers 构建的轻量级导航站点，完美替
 
 ## 🌐 在线演示
 
-立即体验 NaviHive 的所有功能：**[在线演示站点](https://navihive.chatbot.cab/)** **[本账号导航](https://qixiao.dpdns.org/)**
+立即体验 NaviHive 的所有功能：**[在线演示站点](https://navihive.chatbot.cab/)**   **[本账号导航站](https://qixiao.dpdns.org/)**
 
 ```
 👤 演示账号：admin
